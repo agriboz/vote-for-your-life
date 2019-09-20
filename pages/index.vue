@@ -118,6 +118,7 @@ export default {
   methods: {
     clearAll() {
       clearLinks()
+      this.list = []
     },
     changeSort() {
       // todo: put into utils sort folder

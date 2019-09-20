@@ -39,8 +39,8 @@ export default {
   components: {},
   data: () => ({
     item: {
-      name: 'a',
-      url: 'b'
+      name: '',
+      url: ''
     }
   }),
   methods: {
